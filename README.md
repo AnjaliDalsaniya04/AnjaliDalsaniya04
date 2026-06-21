@@ -21,7 +21,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 Currently working as **Backend Developer** at **Tassos Consultancy Services** — building HRMS-ERP modules
+- 🔭 Currently working as **Backend Developer** at **Tassos Consultancy Services** 
 - 🎓 Pursuing **B.E. in Information Technology** at GEC Bhavnagar (CGPA: 8.48) — graduating June 2026
 - 🛠️ I love designing clean REST APIs, optimizing database queries, and building secure auth systems
 - 🌱 Currently deepening my skills in **system design** and **PostgreSQL optimization**
