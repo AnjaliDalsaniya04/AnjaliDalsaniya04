@@ -51,6 +51,7 @@
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,30 +63,17 @@
 
 ### 📌 Featured Projects
 
-#### 🏢 HRMS – Human Resource Management System 
-> Built a comprehensive HRMS at Tassos Consultancy Services to automate HR operations — employee management, payroll, attendance tracking & leave management.  
+#### 🏢 HRMS – Human Resource Management System *(Private — Company Project)*
+> Built a comprehensive HRMS at Tassos Consultancy Services to automate HR operations — employee management, payroll, attendance tracking & leave management.
 > **Stack:** Node.js · Express.js · PostgreSQL · JWT · REST APIs
 
 #### 🎓 [AMPLIMENTOR – Mentorship Platform](https://github.com/AnjaliDalsaniya04/Amplimentor)
-> Web-based platform connecting students with mentors — features session scheduling, progress tracking, real-time chat & payment integration.  
+> Web-based platform connecting students with mentors — features session scheduling, progress tracking, real-time chat & payment integration.
 > **Stack:** Node.js · Express.js · MongoDB · HTML · CSS · JavaScript
 
 #### 🎬 [Movie Zone – Movie Browsing App](https://github.com/AnjaliDalsaniya04/Movie-zone)
-> Responsive movie browsing app with dynamic rendering across categories and genres.  
+> Responsive movie browsing app with dynamic rendering across categories and genres.
 > **Stack:** React · Vite · JavaScript · Bootstrap
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliDalsaniya04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliDalsaniya04&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliDalsaniya04&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
 
 ---
 
@@ -94,14 +82,6 @@
 - 🤖 **AI for Manufacturing** — Intel Digital Readiness × GTU (Jul 2025)
 - ☁️ **Google Cloud Computing Fundamentals & Generative AI Arcade** — GDSC GEC Bhavnagar (Oct 2023)
 - 💡 **Problem Solving (Beginner)** — HackerRank
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliDalsaniya04&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
 
 ---
 
